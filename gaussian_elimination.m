@@ -1,5 +1,5 @@
-function [R] = umathur_pp6(A)
-%UMATHUR_PP6  Returns Row Reduced Echelon Form of a matrix A.
+function [R] = gaussian_elimination(A)
+%GAUSSIAN_ELIMINATION  Returns Row Reduced Echelon Form of a matrix A.
 %
 %   Input:
 %       A - Input Matrix. Should be a Matrix with valid values.
